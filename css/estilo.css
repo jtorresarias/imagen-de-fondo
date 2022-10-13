@@ -52,5 +52,6 @@ li:hover
     width: 10%;
 }
 p{
-    text-shadow: #fff;
+    text-shadow: 2px 2px 3px #fff;
+    color: #fff;
 }
