@@ -56,5 +56,8 @@ p{
     color: #fff;
 }
 .logo{
+    margin-left: 40px;
     color: purple;
+    font-size: 40px;
+    font-style: italic;
 }
